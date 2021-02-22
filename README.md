@@ -14,6 +14,8 @@ Inspired by Alan Watts' spoken word *Overthinking Will Kill Your Reality* our us
     - React-Router-Dom
     - ReactPlayer
 - SCSS
+- Netlify
+    - Google Domains
 - Firebase
 - MongoDB
 
