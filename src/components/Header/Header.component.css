@@ -39,12 +39,12 @@
     padding: 0 10px;
 }
 
-.header .link-ind a:hover {
-    text-decoration: underline;
-    color: yellow;
+.header .link-cont a:hover {
+    color: #5F9F9F;
+    font-weight: 700;
 }
 
-.header .link-ind a:active {
-    text-decoration: none;
-    color: blue;
+.header .link-cont a:active {
+    text-decoration: underline;
+    color: #5F9F9F;
 }

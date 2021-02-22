@@ -1,6 +1,6 @@
 import React from 'react' 
 
-import './Header.css'
+import './Header.component.css'
 
 function Header() {
     return (
@@ -14,7 +14,7 @@ function Header() {
             </div>
             <div className='link-cont'>
                 <div className='link-ind'>
-                    <a href='#'>
+                    <a href='/about'>
                         About
                     </a>
                 </div>

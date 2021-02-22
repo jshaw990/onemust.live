@@ -1,6 +1,6 @@
 import React from 'react' 
 
-import './Construction.css'
+import './Construction.component.css'
 
 import construction from '../../assets/images/construction.png'
 
