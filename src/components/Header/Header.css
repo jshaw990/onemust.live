@@ -1,0 +1,50 @@
+.header {
+    position: fixed;
+    top: 0;
+    background-color: #282c34;
+    width: 100vw;
+    display: flex;
+    height: 57px;
+    min-height: 57px;
+    max-height: 57px;
+}
+
+.header a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.header .logo-cont {
+    float: left;
+    margin: 0;
+    padding: 10px;
+    width: 50%;
+}
+
+.header .logo {
+    padding: 0;
+    margin: 0;
+    font-size: 28px;
+}
+
+.header .link-cont {
+    width: 50%;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.header .link-ind {
+    padding: 0 10px;
+}
+
+.header .link-ind a:hover {
+    text-decoration: underline;
+    color: yellow;
+}
+
+.header .link-ind a:active {
+    text-decoration: none;
+    color: blue;
+}

@@ -1,0 +1,17 @@
+.construction {
+    margin-top: 55px;
+    text-align: center;
+    padding: 25px 0 50px 0;
+    background-color: yellow;
+    color: #282C34;
+}
+
+.construction .crane {
+    width: 70vw;
+    max-width: 400px;
+}
+
+.construction .text {
+    font-size: 24px;   
+    padding: 25px 10px;
+}
