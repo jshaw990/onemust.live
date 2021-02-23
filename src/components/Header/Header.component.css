@@ -17,26 +17,26 @@
 .header .logo-cont {
     float: left;
     margin: 0;
-    padding: 10px;
+    padding: 10px 10px 10px 25px;
     width: 50%;
 }
 
 .header .logo {
     padding: 0;
     margin: 0;
-    font-size: 28px;
+    font-size: 26px;
 }
 
 .header .link-cont {
     width: 50%;
     display: flex;
-    padding: 10px;
+    padding: 10px 25px 10px 10px;
     align-items: center;
     justify-content: flex-end;
 }
 
 .header .link-ind {
-    padding: 0 10px;
+    padding: 0 5px;
 }
 
 .header .link-cont a:hover {

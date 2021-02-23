@@ -1,8 +1,12 @@
-import React from 'react' 
+import React, { useEffect } from 'react' 
 
 import './Contact.page.css'
 
 function Contact() {
+    useEffect(() => {
+        document.title = 'Contact | OneMust.Live'
+    })
+
     return (
         <div className='contact-cont'>
             <div className='contact'>

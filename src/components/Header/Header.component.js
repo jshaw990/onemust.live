@@ -14,8 +14,8 @@ function Header() {
             </div>
             <div className='link-cont'>
                 <div className='link-ind'>
-                    <a href='/about'>
-                        About
+                    <a href='/philosophy'>
+                        Philosophy
                     </a>
                 </div>
                 <div className='link-ind'>

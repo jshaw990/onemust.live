@@ -14,7 +14,7 @@ function Footer() {
                 </div>
                 <div className='right'>
                     <a href='/'>Home</a>
-                    <a href='/about'>About</a>
+                    <a href='/philosophy'>Philosophy</a>
                     <a href='/contact'>Contact Us</a>
                     <a href='#'>Login</a>
                 </div>
